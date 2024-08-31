@@ -58,62 +58,62 @@
   <H2>10. uname -m</H2>
   <img src="https://github.com/user-attachments/assets/05cbfb74-5ab9-4ea9-a7e3-68db49116b13"/>
 </p>
-
+<b>uname -m</b> merupakan perintah dalam linux yang digunakan untuk menampilkan arsitektur mesin.
 
 <p>
   <H2>11. uname -n</H2>
   <img src="https://github.com/user-attachments/assets/bfed8da4-bf22-4bac-a143-8258e6ed1d16"/>
 </p>
-
+<b>uname -n</b> merupakan perintah dalam linux yang digunakan untuk menampilkan nama host pada sistem yang dijalankan.
 
 <p>
   <H2>12. uname -p</H2>
   <img src="https://github.com/user-attachments/assets/30c90cf3-b56b-4bff-a6fc-4896bc9c075b"/>
 </p>
-
+<b>uname -p</b> merupakan perintah dalam linux yang digunakan untuk menampilkan tipe prosesor
 
 <p>
   <H2>13. uname -i</H2>
   <img src="https://github.com/user-attachments/assets/61f9ded1-3ffc-4b40-8aa1-893b9da0f1dc"/>
 </p>
-
+<b>uname -i</b> merupakan perintah dalam linux yang digunakan untuk menampilkan platform hardware.
 
 <p>
   <H2>14. uname -o</H2>
   <img src="https://github.com/user-attachments/assets/3a4b05cf-a037-4491-9f29-36c13f5501e6"/>
 </p>
-
+<b>uname -o</b> merupakan perintah dalam linux yang digunakan untuk menampilkan nama sistem operasi
 
 <p>
   <H2>15. mkdir</H2>
   <img src="https://github.com/user-attachments/assets/b1a912f5-1c9b-4b26-848d-1b29f2b30791" alt="Gambar 1"/>
   <img src="https://github.com/user-attachments/assets/8369eb0e-b70b-4d4a-b268-2bc13ddcca8e" alt= "Gambar 2" />
 </p>
-
+<b>mkdir name</b> merupakan singkatan dari "make directory" yang digunakan dalam linux untuk membuat direktori baru. contohnya seperti gambar diatas, yang dimana perintahnya <i>mkdir louise</i> yaitu membuat direktori baru dengan nama louise.
 
 <p>
   <H2>16. rmdir</H2>
   <img src="https://github.com/user-attachments/assets/7b0c52a5-ad26-4dd4-93e3-da565621863d"/>
 </p>
-
+<b>rmdir </b> kebalikan dari mkdir yang dimana merupakan singkatan dari "remove directory" yang berarti menghapus direktori. contohnya pada gambar diatas membuat perintah <i>rmdir louise</i> yaitu menghapus direktori yang bernama louise.
 
 <p>
   <H2>17. cd Documents</H2>
   <img src="https://github.com/user-attachments/assets/9fa025e6-4d09-4a0b-8ecc-1a1f61e7dc3f"/>
 </p>
-
+<b>cd Documents</b> merupakan perintah dalam linux yang digunakan untuk mengubah direktori kerja saat ini ke direktori bernama Documents. 
 
 <p>
   <H2>18. cd .</H2>
   <img src="https://github.com/user-attachments/assets/4049805d-61ae-45ea-a767-35e06625c7ff"/>
 </p>
-
+<b>cd .</b> merupakan perintah dalam linux yang digunakan untuk tetap berada di direktori saat ini.
 
 <p>
   <H2>19. touch</H2>
   <img src= "https://github.com/user-attachments/assets/5e21a95c-e827-4afc-b80f-bc956f2a09b3"><p> <img src = "https://github.com/user-attachments/assets/5dc61b2e-1fcd-4af6-b318-69472b08ee86" >
 </p>
-
+<b>touch file.txt</b> merupakan perintah dalam linux yang digunakan untuk membuat file txt. 
 
 <p>
   <H2>20. cat</H2>
@@ -121,13 +121,13 @@
   <p></p>
   <img src ="https://github.com/user-attachments/assets/c0ee4313-178d-4125-9705-ce189b54f0c6"/>
 </p>
-
+<b>cat > file.txt</b> merupakan perintah dalam linux yang digunakan untuk membuat dan mengedit file dengan cara yang sederhana.
 
 <p>
   <H2>21. echo</H2>
   <img src="https://github.com/user-attachments/assets/0a4d8e1c-e484-4032-ae0c-e8d32f7a8d30"/>
 </p>
-
+<b>echo</b> merupakan perintah dalam linux yang digunakan untuk menampilkan teks atau variabel dalam terminal.
 
 <p>
   <H2>22. cp</H2>
@@ -135,7 +135,7 @@
   <p></p>
   <img src="https://github.com/user-attachments/assets/25765c44-67e2-473c-9754-abafb885ce2e"/>
 </p>
-
+<b>cp</b> merupakan perintah dalam linux yang digunakan untuk menyalin file. Seperti contoh gambar diatas yang dimana perintah <i>cp louise.txt Documents/</i> yang berarti file louise.txt disalin dan diletakkan pada direktori Documents.
 
 <p>
   <H2>23. mv</H2>
@@ -143,3 +143,4 @@
   <p></p>
   <img src = "https://github.com/user-attachments/assets/dad600ae-7e4c-480a-8d05-e371e46fda7e"/>
 </p>
+<b>mv</b> merupakan perintah dalam linux yang digunakan untuk memindahkan sebuah file ke direktori tertentu. Contoh pada gambar diatas perintah <i>mv louise.txt Downloads/</i> yang berarti file yang bernama louise.txt dipindahkan ke direktori Downloads.

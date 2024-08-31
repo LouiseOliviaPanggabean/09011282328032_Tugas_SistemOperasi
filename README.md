@@ -87,6 +87,7 @@
 <p>
   <H2>15. mkdir</H2>
   <img src="https://github.com/user-attachments/assets/b1a912f5-1c9b-4b26-848d-1b29f2b30791" alt="Gambar 1"/>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
   <img src="https://github.com/user-attachments/assets/8369eb0e-b70b-4d4a-b268-2bc13ddcca8e" alt= "Gambar 2" />
 </p>
 <b>mkdir name</b> merupakan singkatan dari "make directory" yang digunakan dalam linux untuk membuat direktori baru. contohnya seperti gambar diatas, yang dimana perintahnya <i>mkdir louise</i> yaitu membuat direktori baru dengan nama louise.
@@ -111,14 +112,16 @@
 
 <p>
   <H2>19. touch</H2>
-  <img src= "https://github.com/user-attachments/assets/5e21a95c-e827-4afc-b80f-bc956f2a09b3"><p> <img src = "https://github.com/user-attachments/assets/5dc61b2e-1fcd-4af6-b318-69472b08ee86" >
+  <img src= "https://github.com/user-attachments/assets/5e21a95c-e827-4afc-b80f-bc956f2a09b3">
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
+  <img src = "https://github.com/user-attachments/assets/5dc61b2e-1fcd-4af6-b318-69472b08ee86" >
 </p>
 <b>touch file.txt</b> merupakan perintah dalam linux yang digunakan untuk membuat file txt. 
 
 <p>
   <H2>20. cat</H2>
   <img src ="https://github.com/user-attachments/assets/7acd665f-dd83-4a40-a62b-075c37fd6a6b"/>
-  <p></p>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
   <img src ="https://github.com/user-attachments/assets/c0ee4313-178d-4125-9705-ce189b54f0c6"/>
 </p>
 <b>cat > file.txt</b> merupakan perintah dalam linux yang digunakan untuk membuat dan mengedit file dengan cara yang sederhana.
@@ -132,7 +135,7 @@
 <p>
   <H2>22. cp</H2>
   <img src ="https://github.com/user-attachments/assets/73780d31-ca2c-40c2-8507-9e9846823977"/>
-  <p></p>
+ <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
   <img src="https://github.com/user-attachments/assets/25765c44-67e2-473c-9754-abafb885ce2e"/>
 </p>
 <b>cp</b> merupakan perintah dalam linux yang digunakan untuk menyalin file. Seperti contoh gambar diatas yang dimana perintah <i>cp louise.txt Documents/</i> yang berarti file louise.txt disalin dan diletakkan pada direktori Documents.
@@ -140,14 +143,15 @@
 <p>
   <H2>23. mv</H2>
   <img src = "https://github.com/user-attachments/assets/46bc08a4-c5b7-4ac4-8d20-deff7e90b3de"/> 
-  <p></p>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
   <img src = "https://github.com/user-attachments/assets/dad600ae-7e4c-480a-8d05-e371e46fda7e"/>
 </p>
 <b>mv</b> merupakan perintah dalam linux yang digunakan untuk memindahkan sebuah file ke direktori tertentu. Contoh pada gambar diatas perintah <i>mv louise.txt Downloads/</i> yang berarti file yang bernama louise.txt dipindahkan ke direktori Downloads.
 
 <p>
  <h2>24. nano</h2> 
-  <img src ="https://github.com/user-attachments/assets/94f97fa9-bc88-476f-a152-ed5e9371f85a"/><p></p>
+  <img src ="https://github.com/user-attachments/assets/94f97fa9-bc88-476f-a152-ed5e9371f85a"/>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
   <img src ="https://github.com/user-attachments/assets/0e4c6970-ca33-49bb-baea-b35c477ad10a"/>
 </p>
 <b>nano file.txt</b> merupakan perintah dalam Linux yang digunakan untuk membuat dan mengedit sebuah file.
@@ -267,3 +271,56 @@
   <img src="https://github.com/user-attachments/assets/d5826c97-d839-4ac6-a663-16179b11da95"/>
 </p>
 <b>shutdown now</b> merupakan perintah pada Linux untuk mematikan sistem.
+<p>
+  <h2>42. shutdown now</h2>
+  <img src="https://github.com/user-attachments/assets/d5826c97-d839-4ac6-a663-16179b11da95"/>
+</p>
+
+
+<p>
+  <h2>43. ps</h2>
+  <img src="https://github.com/user-attachments/assets/ffadbeff-a255-49b3-a304-47954edba0af"
+</p>
+<b>ps aux</b>merupakan perintah untuk menampilkan semua proses yang sedang berjalan dengan informasi detail.
+
+<p>
+  <h2>44. free</h2>
+  <img src="https://github.com/user-attachments/assets/d50fd3cd-b9f9-457e-8a9e-14a894a1e503"/>
+</p>
+<b>free -m</b> merupakan perintah yang digunakan untuk menampilkan penggunaan memori dalam format yang mudah di baca.
+
+<p>
+  <h2>45. zip</h2>
+  <img src="https://github.com/user-attachments/assets/cb06667b-8aab-4f14-a212-5d95cc7f1c1c"/>
+</p>
+<b>zip file1.zip file2.txt file3.txt</b> merupakan perintah dalam Linux untuk mengompres file2.txt dan file3.txt ke dalam arsip file1.zip 
+
+<p>
+  <h2>46. sudo reboot</h2>
+  <img src="https://github.com/user-attachments/assets/f0c797f2-4f88-415c-b736-60c5e5f5eee4"/>
+</p>
+<b>sudo reboot</b> berfungsi untuk merestart sistem.
+
+<p>
+  <h2>47. unzip</h2>
+  <img src ="https://github.com/user-attachments/assets/8333d9b5-2bc9-4be9-86a9-571f22472121"/>
+</p>
+<b>unzip file.zip</b> merupakan sebuah perintah di Linux untuk mengekstrak isi dari file berbentuk zip yang dituju.
+
+<p>
+  <h2>48. head</h2>
+  <img src ="https://github.com/user-attachments/assets/9aec604d-b484-4fbc-9577-be48f5eee2af"/>
+</p>
+<b>head -n 1 file.txt</b> merupakan perintah untuk menampilkan 1 baris pertama dalam file yang dituju.
+
+<p>
+  <h2>49. more</h2>
+  <img src ="https://github.com/user-attachments/assets/7fe5c40d-7228-47d3-b804-7e57241bca72"/>
+</p>
+<b>more file.txt</b> adalah perintah untuk menampilkan isi file satu layar penuh pada satu waktu.
+
+<p>
+  <h2>50. tail</h2>
+  <img src ="https://github.com/user-attachments/assets/c519c533-760b-4fee-8348-8a2e2206c1e2"/>
+</p>
+<b>tail -n 1 file.txt</b> adalah salah satu perintah di Linux untuk menampilkan baris akhir pada file yang dituju.

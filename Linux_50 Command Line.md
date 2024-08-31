@@ -38,7 +38,7 @@
 </p>
 <b>uname -r</b> merupakan perintah dalam linux yang digunakan untuk menampilkan versi kernel 
 <p>
-  <H2>uname -v</H2>
+  <H2>9. uname -v</H2>
   <img src="https://github.com/user-attachments/assets/3e87ffbc-7c3c-40b5-b856-1baf2c5991f2"/>
 </p>
-<b>9. uname -v</b> merupakan perintah dalam linux yang digunakan untuk menampilkan versi kernel dengan time stamp dan build info
+<b>uname -v</b> merupakan perintah dalam linux yang digunakan untuk menampilkan versi kernel dengan time stamp dan build info

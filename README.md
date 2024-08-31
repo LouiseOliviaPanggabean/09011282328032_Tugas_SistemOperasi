@@ -203,3 +203,67 @@
   <img src= "https://github.com/user-attachments/assets/e1a45ced-51e8-4862-be78-6f43b4fee57b"/>
 </p>
 <b>find file.txt</b> merupakan perintah untuk mencari file/directory di dalam sistem berdasarkan kriteria tertentu.
+
+<p>
+  <h2>33. gzip</h2>
+  <img src="https://github.com/user-attachments/assets/edb18ded-04a2-4d50-9d40-b4e8e8162605"/>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
+  <img src="https://github.com/user-attachments/assets/9f12eb82-a9db-456e-be44-06e5d428856b"/>
+</p>
+<b>gzip file.txt</b> merupakan perintah untuk mengopres file yang dituju menjadi file zip yang bertujuan untuk menghemat ruang disk
+
+<p>
+  <h2>34. gunzip</h2>
+  <img src="https://github.com/user-attachments/assets/e41e5a1f-8afa-4a27-9b37-99c28c6e0f67"/>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
+  <img src="https://github.com/user-attachments/assets/21460463-4f9e-4584-854a-89e51ff405f1"/>
+</p>
+<b>gunzip file.txt.gz</b> merupakan perintah untuk mengembalikan file yang telah dikompres menjadi file semula.
+
+<p>
+  <h2>35. date</h2>
+  <img src="https://github.com/user-attachments/assets/67d81085-3da7-48e3-a790-70a39031405e"/>
+</p>
+<b>date</b> perintah pada linux yang digunakan untuk menampilkan tanggal dan waktu saat ini.
+
+<p>
+  <h2>36. whoami</h2>
+  <img src="https://github.com/user-attachments/assets/349ed182-b767-49e1-bf99-4a82230d8c1d"/>
+</p>
+<b>whoami</b> merupakan perintah dari Linux yang berfungsi menampilkan nama pengguna yang sedang aktif.
+
+<p>
+  <h2>37. history</h2>
+  <img src="https://github.com/user-attachments/assets/ccf98d36-4ae4-493a-a4f2-7ea5b3daf1d4"/>
+</p>
+<b>history</b> merupakan perintah untuk menampilkan daftar perintah yang telah dijalankan sebelumnya diterminal.
+
+<p>
+  <h2>38. uptime</h2>
+  <img src="https://github.com/user-attachments/assets/3a532336-2ca7-489c-8729-bb226e1fb1c5"/>
+</p>
+<b>uptime</b> merupakan salah satu dari perinta di Linux yang berfungsi untuk menampilkan waktu berapa lama disistem telah berjalan,jumlah pengguna yang login,dan beban sistem.
+
+<p>
+  <h2>39. df</h2>
+  <img src="https://github.com/user-attachments/assets/619e87db-cec6-4caa-9b03-4b0bcde45efc"/>
+</p>
+<b>df</b> merupakan perintah yang digunakan untuk menampilkan informasi tentang penggunaan ruang disk pada sistem file.
+
+<p>
+  <h2>40. du</h2>
+  <img src="https://github.com/user-attachments/assets/8d57f8a4-ecb4-452b-929e-f85e03c5125f"/>
+</p>
+<b>du</b> merupakan perintah pada linux yang berfungsi untuk menampilkan jumlah ruang disk yang digunakan oleh file/direktori.
+
+<p>
+  <h2>41. man ls</h2>
+  <img src="https://github.com/user-attachments/assets/23a89237-ed90-4056-8b02-e25c5160d6e1"/>
+</p>
+<b>man ls</b>merupakan perintah pada linux untuk menampilkan panduan pengguna untuk perintah ls
+
+<p>
+  <h2>42. shutdown now</h2>
+  <img src="https://github.com/user-attachments/assets/d5826c97-d839-4ac6-a663-16179b11da95"/>
+</p>
+<b>shutdown now</b> merupakan perintah pada Linux untuk mematikan sistem.

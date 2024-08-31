@@ -271,16 +271,12 @@
   <img src="https://github.com/user-attachments/assets/d5826c97-d839-4ac6-a663-16179b11da95"/>
 </p>
 <b>shutdown now</b> merupakan perintah pada Linux untuk mematikan sistem.
-<p>
-  <h2>42. shutdown now</h2>
-  <img src="https://github.com/user-attachments/assets/d5826c97-d839-4ac6-a663-16179b11da95"/>
-</p>
-
 
 <p>
   <h2>43. ps</h2>
   <img src="https://github.com/user-attachments/assets/ffadbeff-a255-49b3-a304-47954edba0af"
 </p>
+<p></p>
 <b>ps aux</b>merupakan perintah untuk menampilkan semua proses yang sedang berjalan dengan informasi detail.
 
 <p>

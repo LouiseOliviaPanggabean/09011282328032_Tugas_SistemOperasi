@@ -144,3 +144,62 @@
   <img src = "https://github.com/user-attachments/assets/dad600ae-7e4c-480a-8d05-e371e46fda7e"/>
 </p>
 <b>mv</b> merupakan perintah dalam linux yang digunakan untuk memindahkan sebuah file ke direktori tertentu. Contoh pada gambar diatas perintah <i>mv louise.txt Downloads/</i> yang berarti file yang bernama louise.txt dipindahkan ke direktori Downloads.
+
+<p>
+ <h2>24. nano</h2> 
+  <img src ="https://github.com/user-attachments/assets/94f97fa9-bc88-476f-a152-ed5e9371f85a"/><p></p>
+  <img src ="https://github.com/user-attachments/assets/0e4c6970-ca33-49bb-baea-b35c477ad10a"/>
+</p>
+<b>nano file.txt</b> merupakan perintah dalam Linux yang digunakan untuk membuat dan mengedit sebuah file.
+
+<p>
+  <h2>25. shred</h2>
+  <img src ="https://github.com/user-attachments/assets/80df8a38-5650-48e6-84b4-1236e56b547c"/>
+</p>
+<b>shred file.txt</b> merupakan perintah dalam Linux digunakan untuk menghancurkan sebuah file yang dituju.
+
+<p>
+  <h2>26. cat</h2>
+  <img src="https://github.com/user-attachments/assets/af684a6b-0fa1-4b5d-b92c-76bae43c98ff"/>
+</p>
+<b>cat file.txt</b> merupakan perintah dalam Linux yang digunakan untuk menampilkan isi/konten file yang dituju.
+
+<p>
+  <h2>27. clear</h2>
+  <img src="https://github.com/user-attachments/assets/c5541d0b-0965-47dc-b847-5b13e75d13fe"/>
+</p>
+<b>clear</b> merupakan perintah dari Linux untuk membersihkan layar terminal.
+
+<p>
+  <h2>28. htop</h2>
+  <img src= "https://github.com/user-attachments/assets/4d5308d6-9d2f-412d-ac13-3d7e80f17dd3"/>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
+  <img src="https://github.com/user-attachments/assets/0a4fa629-d5c4-4094-a839-2c3ef8c1b07f" width=200/>
+</p>
+<b>htop</b> merupakan utilitas interaktif untuk memantau proses sistem dalam lingkungan Linux.
+
+<p>
+  <h2>29. sudo</h2>
+  <img src="https://github.com/user-attachments/assets/483a1d2a-4076-4c02-9a51-70c5f5fd1106"/>
+</p>
+<b>sudo</b> merupakan perintah untuk menjalankan perintah administratif.
+
+<p>
+  <h2>30. less</h2>
+  <img src="https://github.com/user-attachments/assets/c10f600e-f9d9-4442-a11f-6438808228e8"/>
+  <p><b>*HASIL SETELAH DIJALANKAN :</b></p>
+  <img src="https://github.com/user-attachments/assets/4cbc15b9-8755-4859-aa33-010014bd9ef3"/>
+</p>
+<b>less file.txt</b>merupakan perintah dalam Linux untuk menampilkan isi dari sebuah file satu per satu halaman. Contoh pada gambar diatas dimana perintahnya <i>less louise.txt</i> dan saat dijalankan akan menampilkan isi dalam file yang dituju tersebut.
+
+<p>
+  <h2>31. grep</h2>
+  <img src= "https://github.com/user-attachments/assets/b153d968-1710-4235-aeda-feb15a2f8ea6"/>
+</p>
+<b>grep 'keyword' file.txt</b> merupakan sebuah perintah pada Linux yang digunakan untuk mencari dan menampilkan semua bari dalam file yang dituju yang mengandung 'keyword' yang dicari.
+
+<p>
+  <h2>32. find</h2>
+  <img src= "https://github.com/user-attachments/assets/e1a45ced-51e8-4862-be78-6f43b4fee57b"/>
+</p>
+<b>find file.txt</b> merupakan perintah untuk mencari file/directory di dalam sistem berdasarkan kriteria tertentu.

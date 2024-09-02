@@ -41,3 +41,6 @@ Sistem operasi adalahLinux merupakan jenis sistem operasi berbasis UNIX yang ope
 18.	Setelah selesai proses installasi kita restart dan masuk dengan menggunakan kata sandi yang telah dibuat sebelumnya<p/>
 19.	Dan berikut ini tampilan dari menu desktop Linux yang telah diinstal<p/>
 
+<h3>2.2  Kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?</h3>
+
+<h3>2.3 Penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs</h3>

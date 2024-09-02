@@ -24,7 +24,8 @@ Sistem operasi adalahLinux merupakan jenis sistem operasi berbasis UNIX yang ope
 <p> 1.	Download ISO file distribusi Linux yaitu Ubuntu 24.04 LTS dari situs resmi. </p>
 <p>2.	Dalam installasi Linux ini saya menggunakan dual boot, yang dimana kita menggunakan perangkat lunak rufus untuk membuat USB bootable dengan ISO Linux yaitu Ubuntu yang telah di unduh. </p>
 <p>3.	Lakukan partisi Disk pada Windows pada disk management, kemudian restart komputer dan masuk ke BIOS dengan menekan tombol F2 selama proses booting, lalu simpan pengaturan BIOS dan reboot. Setelah itu komputer akan boot dari USB Linux</p>
-4.	Setelah booting dari USB akan muncul antarmuka instalasi Linux seperti berikut ini</p>
+4.	Setelah booting dari USB akan muncul antarmuka instalasi Linux seperti berikut ini<p/>
+
 5.	Kita pilih bahasa yang akan digunakan lalu lanjutkan<p/>
 6.	Pada bagian ini kita klik next<p/>
 7.	Kita pilih keyboard layout lalu klik next<p/>
